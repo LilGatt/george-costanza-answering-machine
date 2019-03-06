@@ -1,0 +1,21 @@
+{
+  "name": "george-costanza-answering-machine",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Seinfeld's George Costanza tries to avoid a breakup with his girlfriend, so he screens calls with his hilarious answering machine message.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "george",
+    "constanza"
+  ],
+  "author": "LG",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ask-sdk": "^2.0.0"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "george's answering machine",
+      "intents": [
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "GeorgeCostanza",
+          "slots": [],
+          "samples": [
+            "play george costanza's answering machine",
+            "open george's answering machine",
+            "launch george's answering machine",
+            "start george's answering machine",
+            "begin george's answering machine",
+            "load george's answering machine",
+            "play george's answering machine"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}
